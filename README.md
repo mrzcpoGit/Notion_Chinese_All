@@ -10,3 +10,7 @@
 ### 2、下载Release中的exe文件（可以放到桌面，替代Notion，直接双击运行）
 
 每次运行会自动检测Notion版本进行汉化，理论上支持Notion的所有最新版本
+
+
+### 源码
+![微信截图_20240612143031](https://github.com/mrzcpoGit/Notion_Chinese/assets/53836837/c43b3e13-5407-4fdc-810d-c2357e306318)
