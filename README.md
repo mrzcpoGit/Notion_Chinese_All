@@ -8,7 +8,7 @@
 
 ## 使用方法：
 
-### 1、安装 Notion 最新版本
+### 1、安装 Notion 最新版本 [Notion](https://www.notion.so/desktop)
 ### 2、下载运行汉化工具 [Release](https://github.com/mrzcpoGit/Notion_Chinese/releases) 
 
 
