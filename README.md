@@ -1,4 +1,4 @@
-## 《Notion_Chinese》
+## 《Notion_Chinese_All》
 ## 这是一款易语言开发的Notion汉化工具
 原理参考Yiuo大佬的https://github.com/Yiuo/notion-zh_CN?tab=readme-ov-file#more
 
