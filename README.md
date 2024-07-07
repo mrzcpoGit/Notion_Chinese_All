@@ -1,6 +1,6 @@
 ## 《Notion_Chinese_All》
 ## 这是一款易语言开发的Notion汉化工具
-原理参考Yiuo大佬的https://github.com/Yiuo/notion-zh_CN?tab=readme-ov-file#more
+原理参考Reamd7大佬的[不修改Notion源码的方案](https://github.com/Reamd7/notion-zh_CN?tab=readme-ov-file#more)
 
 
 ## 支持的平台
